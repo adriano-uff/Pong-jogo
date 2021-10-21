@@ -1,3 +1,3 @@
 # Pong-jogo
 
-JOGO DE PONG, MO LEGAL BAIXA E RODA AI
+Jogo de futebol no estilo Pong, Brasil X Argentina
